@@ -1,0 +1,9 @@
+int main()  
+{  
+    int height=38;  
+    int radius=35;  
+    double pie=3.14285714286;  
+    double volume=pie*(radius*radius)*height/3;  
+    printf("Volume of the cone=%f",volume);  
+}
+
